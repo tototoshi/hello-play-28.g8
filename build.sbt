@@ -8,6 +8,6 @@ lazy val `hello-play-27` = project
     scalaVersion := "2.13.1",
     libraryDependencies ++= Seq(
       guice,
-      "org.scalatest" %% "scalatest" % "3.1.2" % "test"
+      "org.scalatest" %% "scalatest" % "3.1.4" % "test"
     )
   )
