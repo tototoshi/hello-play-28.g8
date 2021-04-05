@@ -1,4 +1,4 @@
-lazy val `hello-play-27` = project
+lazy val `hello-play-28` = project
   .in(file("."))
   .enablePlugins(PlayScala)
   .settings(
