@@ -5,9 +5,9 @@ lazy val `hello-play-28` = project
     name := "hello-play-28",
     organization := "com.github.tototoshi",
     version := "0.1.0-SNAPSHOT",
-    scalaVersion := "2.13.9",
+    scalaVersion := "2.13.10",
     libraryDependencies ++= Seq(
       guice,
-      "org.scalatest" %% "scalatest" % "3.2.13" % "test"
+      "org.scalatest" %% "scalatest" % "3.2.14" % "test"
     )
   )
